@@ -1,7 +1,7 @@
 import {Button , Table } from 'antd';
 import styles from './table.css';
 import React from 'react'
-
+import { Link } from 'umi';
 
 
 const columns = [
@@ -31,6 +31,7 @@ export default class table extends React.Component{
     return (
       <div>
         <Button type="danger" onClick={this.pushdata.bind(this)}>拉取数据</Button>
+        <Link to="/">Go to list page</Link>
         <Table dataSource={this.state.dataSource} columns={columns} />
       </div>
     );
