@@ -3,60 +3,60 @@ import styles from './table.css';
 import React from 'react'
 
 const dataSource=[
-  [{
+  {
     action:'8:00',
-  }],[{
+    monday:'军事化理论基础',
+
+  },{
     action:'9:00',
-  }],[{
+    monday:'军事化理论基础',
+  },{
     action:'10:00',
 
-  }],[{
+  },{
     action:'11:00',
 
-  }],[{
+  },{
     action:'12:00',
 
-  }],[{
+  },{
     action:'13:00',
 
-  }],[{
+  },{
     action:'14:00',
 
-  }],[{
+  },{
     action:'15:00',
 
-  }],[{
+  },{
     action:'16:00',
 
-  }],[{
+  },{
     action:'17:00',
 
-  }],[{
+  },{
     action:'18:00',
 
-  }],[{
+  },{
     action:'19:00',
 
-  }],[{
+  },{
     action:'20:00',
 
-  }],[{
+  },{
     action: '21:00',
 
-  }],
+  },
 ];
 
 
 const columns = [
 
   {
-    title: '123',
+    title: '',
     dataIndex:'action',
     key: 'action',
     fixed: 'left',
-    render(text,row ,index){
-      return  { props: {  rowSpan: 1,  },}
-    }
   },
   {
     title: '周一',
@@ -102,7 +102,7 @@ export default class schedule extends React.Component{
   render() {
     return (
       <div>
-        <Table dataSource={dataSource} columns={columns} />
+        <Table dataSource={dataSource} columns={columns} pagination={false} bordered/>
       </div>
     );
   }

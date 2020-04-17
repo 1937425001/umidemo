@@ -1,7 +1,9 @@
 //布局
 import { Row, Col } from 'antd';
+import { Card } from 'antd';
 import styles from './table.css';
 import React from 'react'
+import Cards from '@/pages/demo/Cards';
 
 let tims =[
   '8:00','9:00','10:00','11:00','12:00','13:00',
@@ -23,13 +25,25 @@ let kecheng = [
     name:'马克思现代主义思想'},
 ];
 
+class Cardse extends React.Component{
+  constructor(porps){
+    super(porps)
+  }
+  render() {
+    return(
+      <Card >aaa</Card>
+    );
+  }
+}
+
 
 export default class schedule2 extends React.Component{
   constructor(props){
     super(props)
   }
 
-  //布局
+  //卡片
+
 
 
 
@@ -39,7 +53,17 @@ export default class schedule2 extends React.Component{
 
         {this.heads()}
         <Row>
+          <Col span={3}>8:00</Col>
+          <Col span={3}><Cardse/> </Col>
           <Col span={3}>col-3</Col>
+          <Col span={3}>col-3</Col>
+          <Col span={3}>col-3</Col>
+          <Col span={3}>col-3</Col>
+          <Col span={3}>col-3</Col>
+          <Col span={3}>col-3</Col>
+        </Row>
+        <Row>
+          <Col span={3}>9:00</Col>
           <Col span={3}>col-3</Col>
           <Col span={3}>col-3</Col>
           <Col span={3}>col-3</Col>
@@ -49,17 +73,7 @@ export default class schedule2 extends React.Component{
           <Col span={3}>col-3</Col>
         </Row>
         <Row>
-          <Col span={3}>col-3</Col>
-          <Col span={3}>col-3</Col>
-          <Col span={3}>col-3</Col>
-          <Col span={3}>col-3</Col>
-          <Col span={3}>col-3</Col>
-          <Col span={3}>col-3</Col>
-          <Col span={3}>col-3</Col>
-          <Col span={3}>col-3</Col>
-        </Row>
-        <Row>
-          <Col span={3}>col-3</Col>
+          <Col span={3}>10:00</Col>
           <Col span={3}>col-3</Col>
           <Col span={3}>col-3</Col>
           <Col span={3}>col-3</Col>
@@ -69,7 +83,7 @@ export default class schedule2 extends React.Component{
           <Col span={3}>col-3</Col>
         </Row>
         <Row>
-          <Col span={3}>col-3</Col>
+          <Col span={3}>11:00</Col>
           <Col span={3}>col-3</Col>
           <Col span={3}>col-3</Col>
           <Col span={3}>col-3</Col>
@@ -79,7 +93,97 @@ export default class schedule2 extends React.Component{
           <Col span={3}>col-3</Col>
         </Row>
         <Row>
+          <Col span={3}>12:00</Col>
           <Col span={3}>col-3</Col>
+          <Col span={3}>col-3</Col>
+          <Col span={3}>col-3</Col>
+          <Col span={3}>col-3</Col>
+          <Col span={3}>col-3</Col>
+          <Col span={3}>col-3</Col>
+          <Col span={3}>col-3</Col>
+        </Row>
+        <Row>
+          <Col span={3}>13:00</Col>
+          <Col span={3}>col-3</Col>
+          <Col span={3}>col-3</Col>
+          <Col span={3}>col-3</Col>
+          <Col span={3}>col-3</Col>
+          <Col span={3}>col-3</Col>
+          <Col span={3}>col-3</Col>
+          <Col span={3}>col-3</Col>
+        </Row>
+        <Row>
+          <Col span={3}>14:00</Col>
+          <Col span={3}>col-3</Col>
+          <Col span={3}>col-3</Col>
+          <Col span={3}>col-3</Col>
+          <Col span={3}>col-3</Col>
+          <Col span={3}>col-3</Col>
+          <Col span={3}>col-3</Col>
+          <Col span={3}>col-3</Col>
+        </Row>
+        <Row>
+          <Col span={3}>15:00</Col>
+          <Col span={3}>col-3</Col>
+          <Col span={3}>col-3</Col>
+          <Col span={3}>col-3</Col>
+          <Col span={3}>col-3</Col>
+          <Col span={3}>col-3</Col>
+          <Col span={3}>col-3</Col>
+          <Col span={3}>col-3</Col>
+        </Row>
+        <Row>
+          <Col span={3}>16:00</Col>
+          <Col span={3}>col-3</Col>
+          <Col span={3}>col-3</Col>
+          <Col span={3}>col-3</Col>
+          <Col span={3}>col-3</Col>
+          <Col span={3}>col-3</Col>
+          <Col span={3}>col-3</Col>
+          <Col span={3}>col-3</Col>
+        </Row>
+        <Row>
+          <Col span={3}>17:00</Col>
+          <Col span={3}>col-3</Col>
+          <Col span={3}>col-3</Col>
+          <Col span={3}>col-3</Col>
+          <Col span={3}>col-3</Col>
+          <Col span={3}>col-3</Col>
+          <Col span={3}>col-3</Col>
+          <Col span={3}>col-3</Col>
+        </Row>
+        <Row>
+          <Col span={3}>18:00</Col>
+          <Col span={3}>col-3</Col>
+          <Col span={3}>col-3</Col>
+          <Col span={3}>col-3</Col>
+          <Col span={3}>col-3</Col>
+          <Col span={3}>col-3</Col>
+          <Col span={3}>col-3</Col>
+          <Col span={3}>col-3</Col>
+        </Row>
+        <Row>
+          <Col span={3}>19:00</Col>
+          <Col span={3}>col-3</Col>
+          <Col span={3}>col-3</Col>
+          <Col span={3}>col-3</Col>
+          <Col span={3}>col-3</Col>
+          <Col span={3}>col-3</Col>
+          <Col span={3}>col-3</Col>
+          <Col span={3}>col-3</Col>
+        </Row>
+        <Row>
+          <Col span={3}>20:00</Col>
+          <Col span={3}>col-3</Col>
+          <Col span={3}>col-3</Col>
+          <Col span={3}>col-3</Col>
+          <Col span={3}>col-3</Col>
+          <Col span={3}>col-3</Col>
+          <Col span={3}>col-3</Col>
+          <Col span={3}>col-3</Col>
+        </Row>
+        <Row>
+          <Col span={3}>21:00</Col>
           <Col span={3}>col-3</Col>
           <Col span={3}>col-3</Col>
           <Col span={3}>col-3</Col>

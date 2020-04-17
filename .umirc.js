@@ -11,6 +11,7 @@ export default {
         { path: '/a', component: '../pages/table/table' },
         { path: '/s', component: '../pages/table/schedule' },
         { path: '/s2', component: '../pages/table/schedule2' },
+        { path: '/c', component: '../pages/demo/Cards' },
       ]
     }
   ],
