@@ -52,9 +52,9 @@ export default class schedule2 extends React.Component{
       <div>
 
         {this.heads()}
-        <Row>
+        <Row s>
           <Col span={3}>8:00</Col>
-          <Col span={3}><Cardse/> </Col>
+          <Col span={3} ><Cardse/> </Col>
           <Col span={3}>col-3</Col>
           <Col span={3}>col-3</Col>
           <Col span={3}>col-3</Col>
@@ -212,7 +212,4 @@ export default class schedule2 extends React.Component{
     );
   }
 
-  cols(){
-    return <Col span={3} />
-  }
 }

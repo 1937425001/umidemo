@@ -10,6 +10,7 @@ const dataSource=[
   },{
     action:'9:00',
     monday:'军事化理论基础',
+    tuesday :'军事化理论基础',
   },{
     action:'10:00',
 
@@ -30,7 +31,8 @@ const dataSource=[
 
   },{
     action:'16:00',
-
+    saturday:'军事化理论基础',
+    thursday:'体育'
   },{
     action:'17:00',
 
