@@ -1,0 +1,40 @@
+@import '~antd/dist/antd.css';
+
+
+
+
+/*课程表*/
+.course_table{
+  width: 100%;
+  border-spacing: 0;
+}
+/*标题*/
+.course_table th{
+  height: 3em;
+  background: #f3f8f8;
+  color: #6d8498;
+  font-weight: 400;
+  font-size: 0.95em;
+}
+/*设置单元格*/
+.course_table td{
+  font-size:0.925em;
+  height: 4em;
+  border-bottom: 1px dashed #eee;
+  text-align: center;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+.course_table td{
+  font-size:0.925em;
+  color: #FFF;
+  border:1px solid #F001;
+  width: 3em;
+  height: 100%;
+  padding: 3px 0;
+  box-sizing:  border-box;
+  margin: 0 auto;
+  border-radius: 0.5em;
+  line-height: 2em;
+  background-url:none;
+}
