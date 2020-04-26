@@ -8,6 +8,8 @@ export default {
       component: '../layouts/index',
       routes: [
         { path: '/', component: '../pages/biaoge/demo1' },
+        { path: '/form', component: '../pages/form/form1' },
+        { path: '/form1', component: '../pages/form/form2' },
         { path: '/2', component: '../pages/biaoge/demo2' },
         { path: '/z', component: '../pages/children/containers' },
         { path: '/ss', component: '../pages/index' },
@@ -15,7 +17,6 @@ export default {
         { path: '/s', component: '../pages/table/schedule' },
         { path: '/s2', component: '../pages/table/schedule2' },
         { path: '/c', component: '../pages/demo/Cards' },
-        { path: '/asd', component: '../pages/table/demo' },
       ]
     }
   ],

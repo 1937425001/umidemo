@@ -2,6 +2,8 @@ import styles from './demo1.css';
 import { Row, Col, Icon} from 'antd';
 import React from 'react';
 import { Card } from 'antd';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import 'bootstrap/dist/js/bootstrap';
 
 const dataSource=[
   {

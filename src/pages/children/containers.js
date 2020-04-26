@@ -105,6 +105,9 @@ export default class containers extends React.Component{
         {newArr2}
         </tbody>
       </table>
+        <div className="alert alert-primary" role="alert">
+          This is a primary alert—check it out!
+        </div>
     </div>);
   }
 }
