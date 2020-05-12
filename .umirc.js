@@ -8,7 +8,7 @@ export default {
       component: '../layouts/index',
       routes: [
         { path: '/', component: '../pages/kecheng/a/a' },
-        { path: '/d1',component:'../pages/design/uncontrolled/uncontrolled.js', },
+       /* { path: '/d1',component:'../pages/design/uncontrolled/uncontrolled.js', },
         { path: '/qq',component:'../pages/kecheng/kecheng', },
         { path: '/eslink',component:'../pages/eslinks/eslinks.js', },
         { path: '/statres',component:'../pages/jxs/statres.js', },
@@ -24,7 +24,7 @@ export default {
         { path: '/a', component: '../pages/table/table' },
         { path: '/s', component: '../pages/table/schedule' },
         { path: '/s2', component: '../pages/table/schedule2' },
-        { path: '/c', component: '../pages/demo/Cards' },
+        { path: '/c', component: '../pages/demo/Cards' },*/
       ]
     }
   ],
