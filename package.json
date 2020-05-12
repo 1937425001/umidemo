@@ -7,6 +7,21 @@
     "lint": "eslint {src,mock,tests}/**/*.{js,jsx} --fix",
     "precommit": "lint-staged"
   },
+
+  "name": "mypackage",
+  "version": "0.0.1",
+  "eslintConfig": {
+    "env": {
+      "browser": true,
+      "node": true
+    },
+    "rules": {
+      "no-console": "off",
+      "indent": [ "error", 2 ],
+      "quotes": [ "error", "single" ]
+    }
+  },
+
   "dependencies": {
     "@ant-design/colors": "^4.0.0",
     "antd": "^3.19.5",

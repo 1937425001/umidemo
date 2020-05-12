@@ -38,7 +38,7 @@ const dataSource=[
 ];
 //添加边框颜色
 let c1 = {
-  background:' #62e48a',
+
   width: '13%',
 };
 

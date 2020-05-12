@@ -51,7 +51,7 @@ const newArr2=[];
 
 
 
-for (let j = 1; j <14 ; j++) {//每行
+for (let j = 1; j < 14 ; j++) {//每行
   let newArr=[];
   //newArr.push(<td >{j}</td>);
   dataSource.forEach(
@@ -63,7 +63,7 @@ for (let j = 1; j <14 ; j++) {//每行
   );
 
 
-  for (let i = 0; i <7 ; i++) {
+  for (let i = 0; i < 7 ; i++) {
     console.log( myhash.hasOwnProperty(i+1));
     if (myhash.hasOwnProperty(i+1)){
       const temp = <td  style={c1}>{myhash[i+1].text}</td>;
