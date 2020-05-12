@@ -4,9 +4,6 @@
     <list default="true" id="f66775f0-e80d-4459-baf0-63fbdf4404ad" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.umirc.js" beforeDir="false" afterPath="$PROJECT_DIR$/.umirc.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/children/containers.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/children/containers.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/children/containers3.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/children/containers3.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,27 +16,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pages/kecheng/demo/demo.html">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.umirc.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1387">
-              <caret line="73" column="25" selection-start-line="73" selection-start-column="25" selection-end-line="73" selection-end-column="25" />
-              <folding>
-                <element signature="n#style#0;n#li#1;n#ul#0;n#div#2;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#li#1;n#ul#0;n#div#3;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#li#1;n#ul#1;n#div#4;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#li#1;n#ul#0;n#div#5;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#li#0;n#ul#0;n#div#7;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="57">
+              <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.umirc.js">
+        <entry file="file://$PROJECT_DIR$/src/pages/index.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="12" column="66" lean-forward="true" selection-start-line="12" selection-start-column="66" selection-end-line="12" selection-end-column="66" />
+            <state relative-caret-position="304">
+              <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pages/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -47,8 +46,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pages/kecheng/demo/mystyle.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2451">
-              <caret line="129" column="1" selection-start-line="129" selection-end-line="129" selection-end-column="1" />
+            <state relative-caret-position="2014">
+              <caret line="153" column="15" lean-forward="true" selection-start-line="153" selection-start-column="15" selection-end-line="153" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -56,17 +55,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pages/kecheng/a/a.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="439">
-              <caret line="50" column="18" lean-forward="true" selection-start-line="50" selection-start-column="18" selection-end-line="51" selection-end-column="20" />
+            <state relative-caret-position="266">
+              <caret line="26" column="17" lean-forward="true" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pages/kecheng/a/a.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2106">
-              <caret line="145" column="31" selection-start-line="145" selection-start-column="31" selection-end-line="145" selection-end-column="31" />
+            <state relative-caret-position="553">
+              <caret line="142" column="54" selection-start-line="142" selection-start-column="54" selection-end-line="142" selection-end-column="54" />
               <folding>
                 <element signature="n#!!block;n#constructor#0;n#Course#0" />
               </folding>
@@ -75,18 +74,9 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pages/kecheng/kecheng.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="102" column="21" lean-forward="true" selection-start-line="102" selection-start-column="21" selection-end-line="102" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pages/kecheng/kecheng.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-454">
+            <state relative-caret-position="-440">
               <caret line="190" column="16" selection-start-line="188" selection-start-column="3" selection-end-line="190" selection-end-column="16" />
               <folding>
                 <element signature="n#!!block;n#rows#0;n#Sorces#0" />
@@ -112,7 +102,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pages/children/containers.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="589">
+            <state relative-caret-position="410">
               <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
             </state>
           </provider>
@@ -143,9 +133,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>validateToNextPassword</find>
-      <find>Confirm</find>
-      <find>hasFeedback</find>
       <find>residences</find>
       <find>handleWebsiteChange</find>
       <find>AutoCompleteOption</find>
@@ -173,6 +160,9 @@
       <find>f</find>
       <find>Component</find>
       <find>Source</find>
+      <find>padding-inline-start</find>
+      <find>list-style</find>
+      <find>display</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -181,7 +171,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/pages/index.css" />
         <option value="$PROJECT_DIR$/src/pages/table/table.js" />
         <option value="$PROJECT_DIR$/src/pages/demo/Cards" />
         <option value="$PROJECT_DIR$/src/pages/table/schedule2.js" />
@@ -223,21 +212,22 @@
         <option value="$PROJECT_DIR$/src/pages/domo16/dzj.js" />
         <option value="$PROJECT_DIR$/src/pages/kecheng/demo/demo.html" />
         <option value="$PROJECT_DIR$/src/pages/kecheng/demo/mystle.css" />
-        <option value="$PROJECT_DIR$/src/pages/kecheng/demo/mystyle.css" />
         <option value="$PROJECT_DIR$/src/pages/kecheng/kecheng2.css" />
         <option value="$PROJECT_DIR$/src/pages/kecheng/kecheng2.js" />
         <option value="$PROJECT_DIR$/src/pages/children/containers.js" />
         <option value="$PROJECT_DIR$/src/pages/kecheng/kecheng.js" />
-        <option value="$PROJECT_DIR$/src/pages/kecheng/a/a.css" />
-        <option value="$PROJECT_DIR$/.umirc.js" />
         <option value="$PROJECT_DIR$/src/pages/kecheng/kecheng.css" />
         <option value="$PROJECT_DIR$/src/pages/kecheng/a/a.js" />
+        <option value="$PROJECT_DIR$/src/pages/kecheng/demo/mystyle.css" />
+        <option value="$PROJECT_DIR$/src/pages/index.css" />
+        <option value="$PROJECT_DIR$/src/pages/kecheng/a/a.css" />
+        <option value="$PROJECT_DIR$/.umirc.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="133" />
-    <option name="y" value="5" />
+    <option name="x" value="-221" />
+    <option name="y" value="271" />
     <option name="width" value="1267" />
     <option name="height" value="985" />
   </component>
@@ -379,7 +369,7 @@
       <workItem from="1588834927732" duration="5236000" />
       <workItem from="1589161350105" duration="13878000" />
       <workItem from="1589200567984" duration="9160000" />
-      <workItem from="1589244928362" duration="2248000" />
+      <workItem from="1589244928362" duration="3896000" />
     </task>
     <task id="LOCAL-00001" summary="4月16">
       <created>1587026240097</created>
@@ -409,11 +399,18 @@
       <option name="project" value="LOCAL" />
       <updated>1587894269311</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="5月12">
+      <created>1589247274039</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1589247274039</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="157792000" />
+    <option name="totallyTimeSpent" value="159440000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -425,7 +422,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="133" y="5" width="1267" height="985" extended-state="0" />
+    <frame x="600" y="272" width="1267" height="985" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2766477" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -478,7 +476,8 @@
     <MESSAGE value="4月17" />
     <MESSAGE value="4月20 课程表containers" />
     <MESSAGE value="4月26 表单" />
-    <option name="LAST_COMMIT_MESSAGE" value="4月26 表单" />
+    <MESSAGE value="5月12" />
+    <option name="LAST_COMMIT_MESSAGE" value="5月12" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -636,13 +635,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/form/form1.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="798">
@@ -732,13 +724,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/domo16/dzj.css">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -822,20 +807,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/kecheng/demo/mystyle.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2451">
-          <caret line="129" column="1" selection-start-line="129" selection-end-line="129" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/children/containers.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
-          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/children/containers.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1425">
@@ -846,10 +817,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.umirc.js">
+    <entry file="file://$PROJECT_DIR$/src/pages/kecheng/kecheng.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="12" column="66" lean-forward="true" selection-start-line="12" selection-start-column="66" selection-end-line="12" selection-end-column="66" />
+        <state relative-caret-position="228">
+          <caret line="102" column="21" lean-forward="true" selection-start-line="102" selection-start-column="21" selection-end-line="102" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/kecheng/kecheng.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-440">
+          <caret line="190" column="16" selection-start-line="188" selection-start-column="3" selection-end-line="190" selection-end-column="16" />
+          <folding>
+            <element signature="n#!!block;n#rows#0;n#Sorces#0" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -865,37 +846,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/kecheng/kecheng.js">
+    <entry file="file://$PROJECT_DIR$/src/pages/kecheng/a/a.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-454">
-          <caret line="190" column="16" selection-start-line="188" selection-start-column="3" selection-end-line="190" selection-end-column="16" />
+        <state relative-caret-position="553">
+          <caret line="142" column="54" selection-start-line="142" selection-start-column="54" selection-end-line="142" selection-end-column="54" />
           <folding>
-            <element signature="n#!!block;n#rows#0;n#Sorces#0" />
+            <element signature="n#!!block;n#constructor#0;n#Course#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/kecheng/kecheng.css">
+    <entry file="file://$PROJECT_DIR$/src/pages/children/containers.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="102" column="21" lean-forward="true" selection-start-line="102" selection-start-column="21" selection-end-line="102" selection-end-column="21" />
+        <state relative-caret-position="410">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/kecheng/demo/mystyle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2014">
+          <caret line="153" column="15" lean-forward="true" selection-start-line="153" selection-start-column="15" selection-end-line="153" selection-end-column="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/kecheng/a/a.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="439">
-          <caret line="50" column="18" lean-forward="true" selection-start-line="50" selection-start-column="18" selection-end-line="51" selection-end-column="20" />
+        <state relative-caret-position="266">
+          <caret line="26" column="17" lean-forward="true" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/kecheng/a/a.js">
+    <entry file="file://$PROJECT_DIR$/.umirc.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2106">
-          <caret line="145" column="31" selection-start-line="145" selection-start-column="31" selection-end-line="145" selection-end-column="31" />
-          <folding>
-            <element signature="n#!!block;n#constructor#0;n#Course#0" />
-          </folding>
+        <state relative-caret-position="57">
+          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
         </state>
       </provider>
     </entry>

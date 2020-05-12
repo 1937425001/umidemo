@@ -1,0 +1,56 @@
+/* 显示的课程 */
+.Com {
+  background-color: #62e48a;
+  font-family: 微软雅黑;
+  color: rgb(255, 255, 255);
+  font-size: 10px;
+  width: 100%;
+  height: 100%;
+  display: -webkit-box;
+  -webkit-box-align: center;
+  -webkit-box-pack: center;
+  list-style: none; /*去掉小圆点*/ /*去掉小圆点*/;
+}
+
+
+/*课程表*/
+.course_table{
+  width: 100%;
+  border-spacing: 0;
+}
+
+
+
+/*标题 list-style: disc;*/
+.tables li{
+  height: 3em;
+  color: #6d8498;
+  margin:0px;padding:0px;
+  list-style: none;
+  float:left;
+  width: 12.5%;
+  border-bottom: 1px dashed #eee;
+  text-align: center;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+
+.source ul{
+  width: 12.5%;
+  float:left;
+}
+/*单元格样式*/
+.source ul li{
+  font-family: 微软雅黑;
+  position:relative;
+  text-align: center;
+  height: 60px;
+  border-bottom: 1px dashed #eee;
+  text-align: center;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+/*相对定位*/
+.source ul li div{
+  position:relative;
+  border-radius: 0.5em;
+}
