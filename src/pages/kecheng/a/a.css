@@ -37,6 +37,8 @@
 
 .source ul{
   width: 12.5%;
+  margin:0px;padding:0px;
+  list-style: none;
   float:left;
 }
 /*单元格样式*/
